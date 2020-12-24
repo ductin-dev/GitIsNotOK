@@ -4,7 +4,7 @@ Hướng dẫn:
 
 - Nhiệm vụ 1: sửa lại dữ liệu nằm bên trong file 'function' có tên của mình, sau đó commit lên với nội dung <Tên>_DoneFunction1
 - Nhiệm vụ 2: ai đã làm xong nhiệm vụ 1, pull code master về và thêm vào file Conflict.txt một đoạn code bất kỳ (nhớ comment tên), sau đó pull request
-- Nhiệm vụ 3: bạn đang code, nhưng admin bắt pull code mới về? -> xử lí như INTRODUCTION 2
+- Nhiệm vụ 3: cùng sửa file FUNCTION2, mỗi người pull về xóa toàn bộ file và chỉ ghi tên của mình vào
 
 //================== INTRODUCTION 1
 *Lần đầu: Clone code về git clone ....
