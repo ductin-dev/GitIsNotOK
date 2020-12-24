@@ -9,7 +9,7 @@ Hướng dẫn:
 *Lần đầu: Clone code về git clone ....
 - Bước 1: git checkout master -> git pull
 - Bước 2: git checkout <nhánh mình> -> git merge master
-- Bước 3: có Conflict xem như bạn làm sai
+- Bước 3: có Conflict xem như bạn làm sai -> làm lại từ đầu
 - Bước 4: Làm nhiệm vụ
 - Bước 5: git add . -> git commit ... -> git push
 - Bước 6: pull request
