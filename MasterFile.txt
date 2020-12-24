@@ -1,1 +1,15 @@
 File này là file chính, do Tín làm
+
+Hướng dẫn:
+
+- Nhiệm vụ 1: sửa lại dữ liệu nằm bên trong file 'function' có tên của mình, sau đó commit lên với nội dung <Tên>_DoneFunction1
+- Nhiệm vụ 2: chưa có
+
+//================== INTRODUCTION 1
+*Lần đầu: Clone code về git clone ....
+- Bước 1: git checkout master -> git pull
+- Bước 2: git checkout <nhánh mình> -> git merge master
+- Bước 3: có Conflict xem như bạn làm sai
+- Bước 4: Làm nhiệm vụ
+- Bước 5: git add . -> git commit ... -> git push
+- Bước 6: pull request
